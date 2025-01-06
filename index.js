@@ -1,6 +1,3 @@
-
-console.log(message);
-
 function canVote(age) {
     if (age >= 18) {
       return "You can vote"; 
